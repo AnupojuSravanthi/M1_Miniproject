@@ -12,7 +12,7 @@ Faster Acess
 
 Disadvantages
 
-Limited data are stored in the structure.
+Limited data is stored in the structure.
 
 TimeLine
 
