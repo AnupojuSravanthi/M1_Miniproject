@@ -27,5 +27,4 @@
 * Class Diagram	               -    It shows a set of classes, interfaces, and collaborations and their relationships, typically, found in modeling object-oriented systems.
 * Object Diagram	             -    It shows a set of objects and their relationships, which is the static snapshots of instances of the things found in class diagrams.
 
-    * The content detailily describes the structural diagram, in my project there is no inter relation betweem the function blocks and also i am not use any 
-      classes, database etc so there is impossible of structural diagram for COVID TRACKING SYSTEM
+   
